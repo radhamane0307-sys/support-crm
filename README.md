@@ -2,6 +2,14 @@
 
 A full-stack Customer Support CRM application built using React, Node.js, Express.js, and MongoDB.
 
+
+## Live Demo
+
+- **Live Application:** https://support-crm-frontend-4bqt.onrender.com/
+- **Backend API:** https://support-crm-backend-hspw.onrender.com
+- **GitHub Repository:** https://github.com/radhamane0307-sys/support-crm
+
+
 ## About the Project
 
 Support CRM is a web application designed to manage customer support tickets in one place. It helps users create tickets, view customer issues, search and filter tickets, update ticket statuses, and manage ticket notes.
